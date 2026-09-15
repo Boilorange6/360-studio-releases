@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.tourstudio.viewer",
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.0/360-studio-viewer-debug.apk",
+  "sha256": "f83b7a452d9f912f58c2058090142160ba9fd4eac3d21287eb216bb0780d5464",
+  "size": 376203,
+  "releaseNotes": "## 360 Studio Viewer 0.2.0 — 시험판\n\n- 앱을 열 때 새 버전 자동 확인 및 수동 확인 기능\n- GitHub 릴리스에서 APK 다운로드, 크기·SHA256·앱 ID·버전·서명 확인\n- 사용자 확인을 거치는 Android 설치 화면 연결\n- 업데이트를 미루거나 인터넷이 없어도 기존 오프라인 투어 재생 유지\n\n기존 0.1.0에는 업데이트 기능이 없으므로 이 APK를 한 번 직접 설치해 주세요. 기존 앱을 삭제하지 않고 덮어 설치합니다.\n\n이 배포물은 debug 서명 시험용 APK입니다. Android 실기기에서 새 설치 흐름과 설치 후 투어 보존을 확인해 주세요. 투어 ZIP과 이미지는 이 릴리스에 포함하지 않습니다."
+}
