@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 4,
-  "versionName": "0.2.2",
+  "versionCode": 5,
+  "versionName": "0.2.3",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.2/360-studio-viewer-debug.apk",
-  "sha256": "bef5e290de9817aa9dc639105cc012372c98e822dd49328533bd69aed4cd2526",
-  "size": 378511,
-  "releaseNotes": "## 360 Studio Viewer 0.2.2 — 시작 오류 수정\n\n- 0.2.1 설치 후 앱이 시작하자마자 종료되는 초기화 순서 오류를 수정했습니다.\n- 화면을 생성한 뒤 Android 시스템바를 설정하도록 변경했습니다.\n- 전체화면 기능과 기존 투어 저장 형식을 유지합니다.\n\n0.2.1에서 앱이 열리지 않으면 이 APK를 파일로 다운로드해 직접 덮어 설치하세요. **기존 앱을 삭제하거나 데이터를 초기화하지 마세요.** 같은 앱 ID와 서명으로 설치됩니다.\n\n앱이 열리는 0.2.0 사용자는 앱의 업데이트 확인 → 다운로드 → 설치를 사용할 수 있습니다.\n\n이 APK는 시험판입니다. 설치 후 앱 시작, 기존 투어 목록, 전체화면 진입·종료를 갤럭시탭에서 확인해 주세요."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.3/360-studio-viewer-debug.apk",
+  "sha256": "0c8f23029628cc76b4f6fe8113198591bb855aa610dab108c2a5480f6adc0317",
+  "size": 379915,
+  "releaseNotes": "## 360 Studio Viewer 0.2.3 — 영상 재생 오류 수정\n\n- 영상의 첫 프레임이 표시된 뒤 재생이 멈추는 원인이 될 수 있는 WebView 구간 읽기 오류를 수정했습니다.\n- 앱과 WebView가 영상 시작 위치를 중복해서 건너뛰지 않도록 변경했습니다.\n- 기존 투어 저장 형식을 유지합니다. ZIP을 다시 가져올 필요가 없습니다.\n\n앱에서 업데이트 확인 → 다운로드 → 설치를 진행하거나 이 APK를 직접 받아 덮어 설치하세요. **기존 앱을 삭제하거나 데이터를 초기화하지 마세요.** 기존 버전과 같은 앱 ID·서명입니다.\n\nAndroid 자동 검사 59개 통과. 구간 읽기 회귀 검사는 수정 전 실패·수정 후 성공을 확인했습니다. 이 APK는 시험판이며 실제 갤럭시탭에서 재생·탐색·종료 후 재열기 확인이 남아 있습니다."
 }
