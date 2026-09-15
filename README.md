@@ -1,2 +1,29 @@
-# 360-studio-releases
-360 Studio Android viewer APK releases and update metadata. No tour content or source code.
+# 360 Studio Viewer — Android releases
+
+360° 공간 투어를 ZIP으로 가져와 기기 안에서 재생하는 Android 오프라인 플레이어입니다.
+
+이 저장소는 설치·업데이트 배포 파일 전용입니다. 투어·사진·애플리케이션 소스 코드·서명 키는 포함하지 않습니다.
+
+## 시험용 APK
+
+[0.2.0 설치 파일 다운로드](https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.0/360-studio-viewer-debug.apk)
+
+- 기존 0.1.0 사용자: 기존 앱을 삭제하지 않고 새 APK를 한 번 덮어 설치합니다. 0.1.0에는 자동 업데이트 기능이 없습니다.
+- 앱에서 게시용 ZIP 또는 편집용 `.tour.zip`을 가져옵니다. ZIP을 미리 풀 필요가 없습니다.
+- 가져온 투어의 재생에는 인터넷이 필요하지 않습니다.
+- 앱 삭제나 앱 데이터 초기화 시 저장한 투어도 삭제되므로 원본 ZIP을 보관하세요.
+
+## 업데이트
+
+0.2.0부터 기본 업데이트 주소가 연결되어 있습니다. 앱을 열 때 새 버전을 주기적으로 확인하며, 앱의 업데이트 화면에서도 직접 확인할 수 있습니다. 다운로드와 설치는 사용자가 선택합니다. Android에서 이 앱의 설치 권한이나 설치 확인을 요청할 수 있습니다.
+
+업데이트 확인·다운로드에는 인터넷이 필요합니다. 연결되지 않거나 업데이트를 미뤄도 기존 투어를 계속 사용할 수 있습니다.
+
+- [업데이트 정보](https://raw.githubusercontent.com/Boilorange6/360-studio-releases/main/latest.json)
+- [모든 릴리스](https://github.com/Boilorange6/360-studio-releases/releases)
+
+현재 배포물은 debug 서명 시험판입니다. 설치·업데이트 및 영상 재생은 사용 기기에서 확인해 주세요. 앱 내 파일 형식 방어 상한은 기기의 성능 보장이 아닙니다.
+
+## Third-party notices
+
+뷰어가 사용하는 오픈소스 구성요소의 라이선스는 릴리스에 동봉된 `THIRD_PARTY_NOTICES.txt`를 확인하세요.
