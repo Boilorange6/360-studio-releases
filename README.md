@@ -6,7 +6,10 @@
 
 ## 시험용 APK
 
-[0.2.0 설치 파일 다운로드](https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.0/360-studio-viewer-debug.apk)
+[0.2.1 설치 파일 다운로드](https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.1/360-studio-viewer-debug.apk)
+
+- 0.2.0 사용자: 앱의 업데이트 확인 → 다운로드 → 설치로 업데이트합니다.
+- 0.2.1에서는 투어 상단의 전체화면 버튼으로 파노라마를 크게 표시합니다. 종료 버튼이나 뒤로가기로 돌아옵니다.
 
 - 기존 0.1.0 사용자: 기존 앱을 삭제하지 않고 새 APK를 한 번 덮어 설치합니다. 0.1.0에는 자동 업데이트 기능이 없습니다.
 - 앱에서 게시용 ZIP 또는 편집용 `.tour.zip`을 가져옵니다. ZIP을 미리 풀 필요가 없습니다.
