@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 3,
-  "versionName": "0.2.1",
+  "versionCode": 4,
+  "versionName": "0.2.2",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.1/360-studio-viewer-debug.apk",
-  "sha256": "66fb94c7bc187d7d3ffba950e09ff7add50a153611ddac96067d6d0494cb8bf2",
-  "size": 378515,
-  "releaseNotes": "## 360 Studio Viewer 0.2.1 — 전체화면 시험판\n\n- 투어 상단의 전체화면 버튼으로 파노라마를 크게 표시합니다.\n- 전체화면에서는 앱 상단바, 투어 제목과 장면 목록을 숨깁니다.\n- 화면의 전체화면 종료 버튼 또는 뒤로가기로 일반 화면에 돌아옵니다.\n- Android 상태바·탐색바를 숨기는 몰입 모드를 사용합니다. 기기의 창 모드에 따라 시스템 표시가 남을 수 있습니다.\n\n0.2.0 앱에서 업데이트 확인 → 다운로드 → 설치로 업데이트를 시험할 수 있습니다. 기존 앱을 삭제하지 마세요. 0.1.0 사용자는 APK를 직접 덮어 설치해야 합니다.\n\n이 배포물은 debug 서명 시험판입니다. 갤럭시탭에서 설치 후 기존 투어 보존, 전체화면 진입·종료, 회전·앱 복귀를 확인해 주세요."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.2/360-studio-viewer-debug.apk",
+  "sha256": "bef5e290de9817aa9dc639105cc012372c98e822dd49328533bd69aed4cd2526",
+  "size": 378511,
+  "releaseNotes": "## 360 Studio Viewer 0.2.2 — 시작 오류 수정\n\n- 0.2.1 설치 후 앱이 시작하자마자 종료되는 초기화 순서 오류를 수정했습니다.\n- 화면을 생성한 뒤 Android 시스템바를 설정하도록 변경했습니다.\n- 전체화면 기능과 기존 투어 저장 형식을 유지합니다.\n\n0.2.1에서 앱이 열리지 않으면 이 APK를 파일로 다운로드해 직접 덮어 설치하세요. **기존 앱을 삭제하거나 데이터를 초기화하지 마세요.** 같은 앱 ID와 서명으로 설치됩니다.\n\n앱이 열리는 0.2.0 사용자는 앱의 업데이트 확인 → 다운로드 → 설치를 사용할 수 있습니다.\n\n이 APK는 시험판입니다. 설치 후 앱 시작, 기존 투어 목록, 전체화면 진입·종료를 갤럭시탭에서 확인해 주세요."
 }
