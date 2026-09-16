@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 12,
-  "versionName": "0.2.10",
+  "versionCode": 13,
+  "versionName": "0.2.11",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.10/360-studio-viewer-debug.apk",
-  "sha256": "e5bf4fef335acfb9c2a258fa7ad8ef2b769f85fcc7a4bfa1676abebe61e64de8",
-  "size": 421153,
-  "releaseNotes": "## 360 Studio Viewer 0.2.10 — 프로젝트·투어 ZIP 교환\n\n- 프로젝트 전체를 .project.zip 하나로 내보내고 가져올 수 있습니다.\n- 프로젝트 안의 투어 하나를 .tour.zip으로 내보낼 수 있습니다.\n- ZIP 가져오기에서 새 프로젝트 또는 기존 프로젝트를 선택합니다. 현재 프로젝트가 기본 선택되며, 기존 투어를 덮어쓰지 않고 새 사본으로 추가합니다.\n- APK에서 내보낸 ZIP을 PC에서 다시 가져와 편집할 수 있습니다. 신규 백업 가져오기는 편집 정보와 미사용 미디어도 보존합니다.\n- 빈 프로젝트·빈 투어를 지원하고, 가져온 전체 파일을 검증한 뒤 한 번에 저장합니다. 진행 중 취소와 손상된 ZIP 검사를 추가했습니다.\n\nAPK 메뉴: 설정 → 투어 관리 → ZIP 가져오기 또는 프로젝트/투어 ZIP 내보내기.\n\nZIP 한도는 압축 전후 각각 512MiB, 최대 256개 투어·4096개 파일입니다. 구버전 APK에서 이미 제거된 미사용 자산은 복원되지 않습니다. 프로젝트 ZIP은 이 버전부터 지원합니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 삭제나 데이터 초기화는 필요하지 않습니다.\n\nPC↔APK 파일 왕복, 자동 검사, PC·태블릿 브라우저 및 160MiB 합성 전송 검사를 수행했습니다. 실제 갤럭시탭의 파일 제공자·터치·대용량 성능 검증은 남아 있는 시험판입니다."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.11/360-studio-viewer-debug.apk",
+  "sha256": "9511aa1b3007b8bdf51a4a11fd78961b694eea9fc7b2df07dbe309a5c3b01dd3",
+  "size": 424017,
+  "releaseNotes": "## 360 Studio Viewer 0.2.11 — 글래스 쇼룸\n\n- APK 홈에 어두운 글래스 패널과 정돈된 여백·타이포그래피를 적용했습니다.\n- 대표 이미지, 썸네일, 프로젝트 선택 표시와 터치 반응을 개선했습니다.\n- 설정·관람 환경·업데이트·ZIP 관리·삭제 확인 모달의 재질과 간격을 통일했습니다.\n- 지원 기기에서는 모달 배경 블러를 사용하며, 미지원 기기나 블러가 꺼진 상태에서는 불투명 배경으로 가독성을 유지합니다.\n- 빈 라이브러리에서 ZIP을 바로 가져올 수 있습니다.\n- 좁은 화면의 업데이트 버튼 배치와 큰 글꼴에서의 제목·버튼 배치를 개선했습니다.\n\n설정 → 앱 정보 및 업데이트에서 확인하거나 아래 APK를 받아 기존 앱 위에 덮어 설치하세요. 앱 삭제나 데이터 초기화는 필요하지 않습니다.\n\nAndroid 자동 검사 70개, 빌드·서명 검사 및 가로/세로 HTML 구성 검토를 수행했습니다. 실제 갤럭시탭의 블러·터치·표시 배율 검증은 남아 있는 시험판입니다. HTML 검토는 실제 Android 화면 캡처 검증을 대신하지 않습니다."
 }
