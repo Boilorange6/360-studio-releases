@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 11,
-  "versionName": "0.2.9",
+  "versionCode": 12,
+  "versionName": "0.2.10",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.9/360-studio-viewer-debug.apk",
-  "sha256": "ea24ea6b80acebf7605c275df5c593f61153cd6b4f70dcb290ef6760bcebca1b",
-  "size": 407661,
-  "releaseNotes": "## 360 Studio Viewer 0.2.9 — 프로젝트 안의 여러 투어\n\n- 홈에서 프로젝트를 선택한 뒤 프로젝트에 포함된 투어를 선택해 관람합니다.\n- PC에서 같은 프로젝트로 지정한 투어 ZIP들을 가져오면 APK에서 하나의 프로젝트로 묶입니다.\n- 프로젝트 대표 투어를 홈 표지에 반영합니다.\n- 프로젝트 정보가 없는 기존 ZIP과 저장된 투어도 계속 열립니다.\n\nPC에서는 프로젝트 생성·즐겨찾기·대표 투어 설정과 투어 소속 변경을 제공합니다. 기존 PC 데이터는 각 투어와 같은 이름의 프로젝트 아래로 보존됩니다. APK에서 묶어 보려면 PC에서 소속 프로젝트를 지정한 후 ZIP을 다시 내보내 가져오세요. ZIP 내보내기는 투어별이며 프로젝트 전체 일괄 ZIP은 아직 지원하지 않습니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 삭제나 데이터 초기화는 필요하지 않습니다.\n\n자동 검사와 PC·태블릿 크기의 브라우저 검증을 완료했습니다. APK의 실제 갤럭시탭 표시·터치 검증은 남아 있는 시험판입니다."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.10/360-studio-viewer-debug.apk",
+  "sha256": "e5bf4fef335acfb9c2a258fa7ad8ef2b769f85fcc7a4bfa1676abebe61e64de8",
+  "size": 421153,
+  "releaseNotes": "## 360 Studio Viewer 0.2.10 — 프로젝트·투어 ZIP 교환\n\n- 프로젝트 전체를 .project.zip 하나로 내보내고 가져올 수 있습니다.\n- 프로젝트 안의 투어 하나를 .tour.zip으로 내보낼 수 있습니다.\n- ZIP 가져오기에서 새 프로젝트 또는 기존 프로젝트를 선택합니다. 현재 프로젝트가 기본 선택되며, 기존 투어를 덮어쓰지 않고 새 사본으로 추가합니다.\n- APK에서 내보낸 ZIP을 PC에서 다시 가져와 편집할 수 있습니다. 신규 백업 가져오기는 편집 정보와 미사용 미디어도 보존합니다.\n- 빈 프로젝트·빈 투어를 지원하고, 가져온 전체 파일을 검증한 뒤 한 번에 저장합니다. 진행 중 취소와 손상된 ZIP 검사를 추가했습니다.\n\nAPK 메뉴: 설정 → 투어 관리 → ZIP 가져오기 또는 프로젝트/투어 ZIP 내보내기.\n\nZIP 한도는 압축 전후 각각 512MiB, 최대 256개 투어·4096개 파일입니다. 구버전 APK에서 이미 제거된 미사용 자산은 복원되지 않습니다. 프로젝트 ZIP은 이 버전부터 지원합니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 삭제나 데이터 초기화는 필요하지 않습니다.\n\nPC↔APK 파일 왕복, 자동 검사, PC·태블릿 브라우저 및 160MiB 합성 전송 검사를 수행했습니다. 실제 갤럭시탭의 파일 제공자·터치·대용량 성능 검증은 남아 있는 시험판입니다."
 }
