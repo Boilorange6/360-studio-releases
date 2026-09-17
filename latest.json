@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 17,
-  "versionName": "0.2.15",
+  "versionCode": 18,
+  "versionName": "0.2.16",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.15/360-studio-viewer-debug.apk",
-  "sha256": "0794e7723c8753f6f88efbca55b61ec24b87875d27052eb0fbdc933891185d5c",
-  "size": 723135,
-  "releaseNotes": "360 Studio Viewer 0.2.15 (code 17) 시험판\n\n- 가구·재질·외부 조망을 클릭 없이 읽는 상시 주석을 지원합니다. 해당 위치가 시야에 들어오면 이름과 짧은 설명이 표시됩니다.\n- 상시 주석 배경 투명도를 0~100%로 설정할 수 있습니다. 글자와 위치 연결선은 유지됩니다.\n- 주석을 누르면 상세 설명을 열며, 기존 클릭형 주석도 그대로 사용할 수 있습니다.\n- PC 편집기에서 설명 핫스팟의 ‘클릭 없이 설명 표시’와 ‘배경 투명도’를 설정하고 ZIP으로 가져오세요. Android는 관람용 뷰어입니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 삭제나 데이터 초기화를 하지 마세요. 이전 버전과 동일한 debug 서명입니다.\n\n검증: 타입 검사, 웹 테스트 42개, Android JVM 테스트 73개, 데스크톱·태블릿 크기 Chromium 화면 확인. 실제 Galaxy Tab 덮어 설치와 장시간 관람은 미검증입니다."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.16/360-studio-viewer-debug.apk",
+  "sha256": "7df77c71562a9d394a77772eef3a53432a633d6ddeca4de4913cefe7bc9a407e",
+  "size": 442528,
+  "releaseNotes": "360 Studio Viewer 0.2.16 (code 18) 시험판\n\n- 스마트폰 홈·목록은 세로로 표시하고, 관람할 때만 기기의 자동 회전 설정을 따릅니다. 가로 관람을 권장하며 세로로 계속 볼 수도 있습니다.\n- 관람을 마치면 세로 목록으로 돌아가며 검색·선택·목록 위치를 복원합니다. 태블릿과 분할 창은 회전을 제한하지 않습니다.\n- 홈 검색, ZIP 바로 가져오기, 프로젝트 바로 열기와 투어별 관람 버튼을 추가했습니다. 넓은 태블릿은 대표 사진과 목록을 함께 보여 줍니다.\n- 평면도 크기 프리셋·미리보기·기본값 복원과 관람 버튼 배치를 개선했습니다.\n- PC 편집기는 항상 홈에서 프로젝트 선택으로 시작합니다. 홈 이동, 편집·관람 동선과 키보드 모달 접근성을 개선했습니다. Android 앱은 관람용입니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 삭제나 데이터 초기화를 하지 마세요. 이전 버전과 동일한 debug 서명을 사용합니다.\n\n실제 스마트폰·Galaxy Tab의 센서 회전, 글꼴 확대, 덮어 설치와 장시간 관람은 미검증입니다."
 }
