@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 19,
-  "versionName": "0.2.17",
+  "versionCode": 20,
+  "versionName": "0.2.18",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.17/360-studio-viewer-debug.apk",
-  "sha256": "042fcd5220c607f174808960b159136535b580c95b6a18c435a59ed013892991",
-  "size": 451498,
-  "releaseNotes": "360 Studio Viewer 0.2.17 (code 19) 시험판\n\n- 장면 선택 버튼을 오른쪽 아래로 옮겨 관람 화면 중앙을 더 넓게 보여 줍니다.\n- 장면 목록을 번호와 이름 중심으로 정돈하고 현재 장면을 체크와 배경색으로 구분합니다. 장면을 선택하면 목록이 닫힙니다.\n- 태블릿과 스마트폰 가로·세로에 맞춰 목록 폭과 스크롤 영역을 조정했습니다.\n- 화면 설정과 공간 설명 창의 글자·여백·닫기 버튼을 정돈했습니다. 화면 설정은 기존 평면도 크기·불투명도·고대비·자동 숨김 설정을 유지합니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 삭제나 데이터 초기화를 하지 마세요. 이전 버전과 동일한 debug 서명을 유지한 시험판입니다.\n\n실제 스마트폰·Galaxy Tab의 덮어 설치, 노치·글꼴 확대, 장시간 관람은 미검증입니다."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.18/360-studio-viewer-debug.apk",
+  "sha256": "cd7ee37b6c32bd36289e9efd178471fb4c764cbd8410b0090094a898547e6ea1",
+  "size": 452234,
+  "releaseNotes": "360 Studio Viewer 0.2.18 (code 20) 시험판\n\n- 태블릿 홈을 프로젝트 선택 중심으로 정돈했습니다. 제목·설명·검색을 위에 배치하고, 넓은 대표 프로젝트와 투명한 프로젝트 목록을 함께 보여 줍니다.\n- ZIP 가져오기와 설정 진입점을 상단 오른쪽에 배치하고, 좁은 화면과 큰 글꼴에서도 48dp 터치 영역을 유지합니다.\n- 프로젝트 수와 투어 수는 저장된 데이터에서 계산하며, 확인할 수 없는 최근 사용 정보는 표시하지 않습니다.\n- 기존 프로젝트·투어 탐색, 검색, 가져오기, 오프라인 관람, 저장된 투어와 설정을 유지합니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 ID와 이전 시험판과 동일한 debug 서명을 유지하므로 앱을 삭제하거나 데이터를 초기화하지 않아도 기존 투어와 설정을 보존합니다.\n\n공개 시험판이며 실제 스마트폰·Galaxy Tab 덮어 설치, 하드웨어 글꼴 확대, 노치·회전, 장시간 관람은 아직 미검증입니다."
 }
