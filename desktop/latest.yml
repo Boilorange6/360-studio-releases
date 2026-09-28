@@ -1,0 +1,8 @@
+version: 0.1.4
+files:
+  - url: https://github.com/Boilorange6/360-studio-releases/releases/download/desktop-v0.1.4/360-studio-desktop-0.1.4-setup.exe
+    sha512: LVIfr9J5B4yjAxxgvvzeNdFcEhZRlyrJBMH0MEglRwdpUXlAxP2QiGa7lBkJBmcXoFEZddLCd5Z8oRvw8riczQ==
+    size: 112127629
+path: https://github.com/Boilorange6/360-studio-releases/releases/download/desktop-v0.1.4/360-studio-desktop-0.1.4-setup.exe
+sha512: LVIfr9J5B4yjAxxgvvzeNdFcEhZRlyrJBMH0MEglRwdpUXlAxP2QiGa7lBkJBmcXoFEZddLCd5Z8oRvw8riczQ==
+releaseDate: '2026-09-28T06:02:50.969Z'
