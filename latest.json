@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 25,
-  "versionName": "0.2.23",
+  "versionCode": 26,
+  "versionName": "0.2.24",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.23/360-studio-viewer-debug.apk",
-  "sha256": "7686ed2799f3b8887bf72325f628ec1493a73a252c6940f9189c34f228db3152",
-  "size": 469258,
-  "releaseNotes": "360 Studio Viewer 0.2.23 (code 25) 시험판\n\n- 장면 선택 썸네일: 장면 선택 띠에 번호·이름만 보이던 문제를 고쳐 장면 사진 썸네일이 표시됩니다. 썸네일은 장면 시작 방향을 가운데로 잘라 보여줍니다.\n- 이미 가져온 투어도 다시 가져올 필요 없이 기기에서 파노라마로 썸네일을 만들어 표시합니다(한 번 만든 썸네일은 저장해 다시 사용). 새로 가져오는 투어는 PC에서 만든 썸네일을 그대로 사용합니다.\n- 장면 선택 띠 잘림 수정: 가로 화면에서 카드와 이름이 아래로 잘리던 문제를 고쳤습니다. 큰 “장면 선택” 제목을 없애고 카드 크기가 화면 높이에 맞춰집니다.\n- 기존 프로젝트·투어·오프라인 관람·설정을 유지합니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 ID와 이전 시험판과 동일한 debug 서명을 유지하므로 앱을 삭제하거나 데이터를 초기화하지 않아도 기존 투어와 설정을 보존합니다.\n\n공개 시험판이며 실제 사진에서의 썸네일 방향과 장시간 관람은 아직 실기기에서 미검증입니다."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.24/360-studio-viewer-debug.apk",
+  "sha256": "42d4416720846b71cfadf68df63b449a66be39bbd4cf8e48582cabdddd577266",
+  "size": 759546,
+  "releaseNotes": "360 Studio Viewer 0.2.24 (code 26) 시험판\n\n- 평면도 링크 번호 변경: 평면도 편집에서 링크를 선택하면 설정 맨 위의 \"번호\"로 순서를 바꿀 수 있습니다. 나머지 링크 번호는 자동으로 당겨지거나 밀립니다.\n- 바꾼 번호는 관람 화면, 미니맵, 내보낸 투어에 그대로 반영됩니다.\n- 기존 프로젝트·투어·오프라인 관람·설정을 유지합니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 ID와 이전 시험판과 동일한 debug 서명을 유지하므로 앱을 삭제하거나 데이터를 초기화하지 않아도 기존 투어와 설정을 보존합니다.\n\n공개 시험판이며 실기기에서의 번호 변경 조작은 아직 미검증입니다."
 }
