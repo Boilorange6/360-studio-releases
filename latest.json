@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 26,
-  "versionName": "0.2.24",
+  "versionCode": 27,
+  "versionName": "0.2.25",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.24/360-studio-viewer-debug.apk",
-  "sha256": "42d4416720846b71cfadf68df63b449a66be39bbd4cf8e48582cabdddd577266",
-  "size": 759546,
-  "releaseNotes": "360 Studio Viewer 0.2.24 (code 26) 시험판\n\n- 평면도 링크 번호 변경: 평면도 편집에서 링크를 선택하면 설정 맨 위의 \"번호\"로 순서를 바꿀 수 있습니다. 나머지 링크 번호는 자동으로 당겨지거나 밀립니다.\n- 바꾼 번호는 관람 화면, 미니맵, 내보낸 투어에 그대로 반영됩니다.\n- 기존 프로젝트·투어·오프라인 관람·설정을 유지합니다.\n\n기존 앱 위에 덮어 설치하세요. 앱 ID와 이전 시험판과 동일한 debug 서명을 유지하므로 앱을 삭제하거나 데이터를 초기화하지 않아도 기존 투어와 설정을 보존합니다.\n\n공개 시험판이며 실기기에서의 번호 변경 조작은 아직 미검증입니다."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.25/360-studio-viewer-debug.apk",
+  "sha256": "198388192cce16d8562f849a02c777e3c91f29ba88c69150bb5c20e0fb81ec53",
+  "size": 612261,
+  "releaseNotes": "360 Studio Viewer 0.2.25 (code 27) 시험판\n\n정식 서명 전환: 이번 버전부터 앱이 정식 서명으로 바뀝니다. 서명이 바뀌어 **한 번만** 앱을 지우고 다시 설치해야 합니다.\n\n기존 앱을 쓰던 분\n1. 가져온 투어의 ZIP 파일이 있는지 확인하세요. 앱을 삭제하면 가져온 투어가 지워집니다.\n2. `360-studio-viewer.apk`(정식 버전)를 먼저 내려받으세요. 기존 앱을 0.2.25로 업데이트하면 같은 안내와 [새 버전 받기] 버튼이 나옵니다.\n3. 기존 앱을 삭제하세요.\n4. 내려받은 파일을 열어 설치하세요. \"앱 차단됨\" 경고가 뜨면 [무시하고 설치]를 누르세요.\n5. 투어 ZIP을 다시 가져오세요.\n\n처음 설치하는 분은 `360-studio-viewer.apk`만 설치하면 됩니다.\n\n첨부 파일\n- `360-studio-viewer.apk`: 정식 서명 버전. 앞으로 이 버전으로 앱 안 자동 업데이트를 받습니다.\n- `360-studio-viewer-debug.apk`: 기존 시험용 앱에 덮어 설치되는 전환 안내용 버전.\n\n기능은 0.2.24와 같습니다(평면도 링크 번호 변경 포함)."
 }
