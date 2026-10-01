@@ -1,8 +1,8 @@
-version: 0.1.7
+version: 0.1.8
 files:
-  - url: https://github.com/Boilorange6/360-studio-releases/releases/download/desktop-v0.1.7/360-studio-desktop-0.1.7-setup.exe
-    sha512: nOQSwjbszJwQW5R9fwnKkqHKcqWdH1k80EoP8l2DCNvJpWV0aqj1kAIEbObXH874j1AcWX7JcsHTNLp+3kzhUA==
-    size: 112128306
-path: https://github.com/Boilorange6/360-studio-releases/releases/download/desktop-v0.1.7/360-studio-desktop-0.1.7-setup.exe
-sha512: nOQSwjbszJwQW5R9fwnKkqHKcqWdH1k80EoP8l2DCNvJpWV0aqj1kAIEbObXH874j1AcWX7JcsHTNLp+3kzhUA==
-releaseDate: '2026-10-01T09:11:52.131Z'
+  - url: https://github.com/Boilorange6/360-studio-releases/releases/download/desktop-v0.1.8/360-studio-desktop-0.1.8-setup.exe
+    sha512: vSvGLabJPblScP6e1uOCUM382DKUeC0nELXaLHt2TropqN1PCJSdbyHxQzhLjwjCsUkwFYeHDThp2+nwRKVFag==
+    size: 112128742
+path: https://github.com/Boilorange6/360-studio-releases/releases/download/desktop-v0.1.8/360-studio-desktop-0.1.8-setup.exe
+sha512: vSvGLabJPblScP6e1uOCUM382DKUeC0nELXaLHt2TropqN1PCJSdbyHxQzhLjwjCsUkwFYeHDThp2+nwRKVFag==
+releaseDate: '2026-10-01T09:39:35.998Z'
