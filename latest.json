@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 28,
-  "versionName": "0.2.26",
+  "versionCode": 29,
+  "versionName": "0.2.27",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.26/360-studio-viewer.apk",
-  "sha256": "39f595ed8a59245cb9b2618f89ef638d70df5c8c2269023700d6b61ef27a48f5",
-  "size": 390130,
-  "releaseNotes": "360 Studio Viewer 0.2.26 (code 28) 시험판\n\n- 인테리어 스타일의 **원본 비교** 버튼을 누르거나 뗄 때 로딩 표시 없이 바로 바뀝니다.\n- 같은 공간 안에서 스타일을 바꿀 때도 불러오는 중 표시 없이 보던 시점 그대로 사진만 바뀝니다. 한 번 본 스타일과 원본 사이 전환이 특히 빨라졌습니다.\n- 다른 공간으로 이동할 때는 기존처럼 불러오는 중 표시가 나타납니다.\n\n0.2.25 정식 서명(`360-studio-viewer.apk`)을 설치한 분은 앱 안 업데이트 또는 덮어 설치로 투어와 설정을 그대로 유지합니다.\n아직 시험용(debug) 서명 앱을 쓰는 분은 0.2.25 안내대로 투어 ZIP을 확인한 뒤 한 번 삭제 후 설치해야 합니다.\n\n실제 Galaxy Tab에서의 전환 속도는 아직 미검증입니다(데스크톱 브라우저 4배 CPU 제한에서 약 0.1초)."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.27/360-studio-viewer.apk",
+  "sha256": "48f1936f3d266bf2f00d502721c14b792a8fd439a9698826983fc62021c8b889",
+  "size": 390606,
+  "releaseNotes": "360 Studio Viewer 0.2.27 (code 29) 시험판\n\n- 평면도를 크게 펼치면 왼쪽 아래에 **핀** 버튼이 나타납니다.\n- 핀을 꽂으면 화면을 드래그하거나 다른 공간으로 이동해도 평면도가 사라지지 않고, 확대·이동해 둔 상태 그대로 유지됩니다. 자동 숨김 중에도 계속 보입니다.\n- 핀을 풀면 원래대로 바깥을 누르면 작아지고 확대가 초기화되며, 자동 숨김도 다시 적용됩니다.\n- 핀 상태는 투어를 보는 동안만 유지됩니다.\n\n0.2.25 이후 정식 서명 앱은 앱 안 업데이트 또는 덮어 설치로 투어와 설정을 그대로 유지합니다.\n\n실제 Galaxy Tab에서의 핀 동작은 아직 미검증입니다(데스크톱·iPad 크기 브라우저 자동 테스트 통과)."
 }
