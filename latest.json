@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 27,
-  "versionName": "0.2.25",
+  "versionCode": 28,
+  "versionName": "0.2.26",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.25/360-studio-viewer-debug.apk",
-  "sha256": "198388192cce16d8562f849a02c777e3c91f29ba88c69150bb5c20e0fb81ec53",
-  "size": 612261,
-  "releaseNotes": "360 Studio Viewer 0.2.25 (code 27) 시험판\n\n정식 서명 전환: 이번 버전부터 앱이 정식 서명으로 바뀝니다. 서명이 바뀌어 **한 번만** 앱을 지우고 다시 설치해야 합니다.\n\n기존 앱을 쓰던 분\n1. 가져온 투어의 ZIP 파일이 있는지 확인하세요. 앱을 삭제하면 가져온 투어가 지워집니다.\n2. `360-studio-viewer.apk`(정식 버전)를 먼저 내려받으세요. 기존 앱을 0.2.25로 업데이트하면 같은 안내와 [새 버전 받기] 버튼이 나옵니다.\n3. 기존 앱을 삭제하세요.\n4. 내려받은 파일을 열어 설치하세요. \"앱 차단됨\" 경고가 뜨면 [무시하고 설치]를 누르세요.\n5. 투어 ZIP을 다시 가져오세요.\n\n처음 설치하는 분은 `360-studio-viewer.apk`만 설치하면 됩니다.\n\n첨부 파일\n- `360-studio-viewer.apk`: 정식 서명 버전. 앞으로 이 버전으로 앱 안 자동 업데이트를 받습니다.\n- `360-studio-viewer-debug.apk`: 기존 시험용 앱에 덮어 설치되는 전환 안내용 버전.\n\n기능은 0.2.24와 같습니다(평면도 링크 번호 변경 포함)."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.26/360-studio-viewer.apk",
+  "sha256": "39f595ed8a59245cb9b2618f89ef638d70df5c8c2269023700d6b61ef27a48f5",
+  "size": 390130,
+  "releaseNotes": "360 Studio Viewer 0.2.26 (code 28) 시험판\n\n- 인테리어 스타일의 **원본 비교** 버튼을 누르거나 뗄 때 로딩 표시 없이 바로 바뀝니다.\n- 같은 공간 안에서 스타일을 바꿀 때도 불러오는 중 표시 없이 보던 시점 그대로 사진만 바뀝니다. 한 번 본 스타일과 원본 사이 전환이 특히 빨라졌습니다.\n- 다른 공간으로 이동할 때는 기존처럼 불러오는 중 표시가 나타납니다.\n\n0.2.25 정식 서명(`360-studio-viewer.apk`)을 설치한 분은 앱 안 업데이트 또는 덮어 설치로 투어와 설정을 그대로 유지합니다.\n아직 시험용(debug) 서명 앱을 쓰는 분은 0.2.25 안내대로 투어 ZIP을 확인한 뒤 한 번 삭제 후 설치해야 합니다.\n\n실제 Galaxy Tab에서의 전환 속도는 아직 미검증입니다(데스크톱 브라우저 4배 CPU 제한에서 약 0.1초)."
 }
