@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tourstudio.viewer",
-  "versionCode": 29,
-  "versionName": "0.2.27",
+  "versionCode": 30,
+  "versionName": "0.2.28",
   "minSdk": 26,
-  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.27/360-studio-viewer.apk",
-  "sha256": "48f1936f3d266bf2f00d502721c14b792a8fd439a9698826983fc62021c8b889",
-  "size": 390606,
-  "releaseNotes": "360 Studio Viewer 0.2.27 (code 29) 시험판\n\n- 평면도를 크게 펼치면 왼쪽 아래에 **핀** 버튼이 나타납니다.\n- 핀을 꽂으면 화면을 드래그하거나 다른 공간으로 이동해도 평면도가 사라지지 않고, 확대·이동해 둔 상태 그대로 유지됩니다. 자동 숨김 중에도 계속 보입니다.\n- 핀을 풀면 원래대로 바깥을 누르면 작아지고 확대가 초기화되며, 자동 숨김도 다시 적용됩니다.\n- 핀 상태는 투어를 보는 동안만 유지됩니다.\n\n0.2.25 이후 정식 서명 앱은 앱 안 업데이트 또는 덮어 설치로 투어와 설정을 그대로 유지합니다.\n\n실제 Galaxy Tab에서의 핀 동작은 아직 미검증입니다(데스크톱·iPad 크기 브라우저 자동 테스트 통과)."
+  "apkUrl": "https://github.com/Boilorange6/360-studio-releases/releases/download/v0.2.28/360-studio-viewer.apk",
+  "sha256": "71f7fa8824b75cf91a7b16853d6f31f4a0004ac6d6b622039e73c91901f328e0",
+  "size": 390706,
+  "releaseNotes": "360 Studio Viewer 0.2.28 (code 30) 시험판\n\n- 평면도 링크의 **방향 화살표·크기 슬라이더**와 **라벨 입력**이 값이 바뀔 때마다 투어 전체를 저장하던 문제를 고쳤습니다.\n- 이제 슬라이더를 움직이는 동안에는 화면에서만 바로 바뀌고, 손을 떼거나 입력을 마칠 때 한 번만 저장됩니다. 편집 중 끊김이 줄고 실행 취소 기록도 슬라이더 조작으로 밀려나지 않습니다.\n\n0.2.25 이후 정식 서명 앱은 앱 안 업데이트 또는 덮어 설치로 투어와 설정을 그대로 유지합니다.\n\n실제 Galaxy Tab에서의 슬라이더 동작은 아직 미검증입니다(데스크톱·iPad 크기 브라우저 자동 테스트 통과)."
 }
